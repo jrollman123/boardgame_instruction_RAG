@@ -1,6 +1,6 @@
 # Boardgame RAG Markdown
 
-Created: February 18, 2024 10:52 PM
+This code is now outdated as it uses the earlier langchain iteration.
 
 ```python
 from langchain import HuggingFacePipeline
