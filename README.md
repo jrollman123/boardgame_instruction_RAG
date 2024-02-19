@@ -1,4 +1,4 @@
-# Boardgame RAG Markdown
+# Boardgame RAG
 
 This code is now outdated as it uses the earlier langchain iteration.
 
